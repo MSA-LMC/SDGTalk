@@ -1,0 +1,9 @@
+setup.py
+/data2/home/jiapeng2/code/Audio2VideoFace/3DGS/EmoGAGAvatar/gridencoder/src/bindings.cpp
+/data2/home/jiapeng2/code/Audio2VideoFace/3DGS/EmoGAGAvatar/gridencoder/src/gridencoder.cu
+/home/jiapeng/code/Audio2VideoFace/3DGS/InsTaG/gridencoder/src/bindings.cpp
+/home/jiapeng/code/Audio2VideoFace/3DGS/InsTaG/gridencoder/src/gridencoder.cu
+gridencoder.egg-info/PKG-INFO
+gridencoder.egg-info/SOURCES.txt
+gridencoder.egg-info/dependency_links.txt
+gridencoder.egg-info/top_level.txt
