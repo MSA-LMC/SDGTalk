@@ -195,3 +195,4 @@ dependencies:
       - wcwidth==0.2.13
       - yacs==0.1.8
       - yarl==1.13.0
+      - ./gridencoder   
