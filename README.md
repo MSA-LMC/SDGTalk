@@ -1,7 +1,12 @@
 
-# SDTALK: STRUCTURED FACIAL PRIORS AND DUAL-BRANCH MOTION FIELDS FOR GENERALIZABLE GAUSSIAN TALKING HEAD SYNTHESIS
+# SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis
+
+## Demo
+
+It is shown in demo/demo.mp4
 
 ## Installation
+
 
 Tested on Ubuntu 20.04, CUDA 12.1, PyTorch 2.4.1
 
