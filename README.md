@@ -4,6 +4,8 @@
 ## Demo
 
 It is shown in demo/demo.mp4
+<img width="783" height="438" alt="image" src="https://github.com/user-attachments/assets/d7aa6aaf-3724-44d6-8cb0-9f2ac37d2384" />
+
 
 ## Installation
 
